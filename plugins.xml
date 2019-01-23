@@ -3,15 +3,14 @@
 	<pyqgis_plugin name="Massive Change Detection" version="0.1.0">
 		<description>Change detection algorithms for urban planning</description>
     <version>0.1.0</version>
-		<homepage>https://github.com/dymaxionlabs/massive-change-detection</homepage>
+		<homepage>https://github.com/severina19/qgis_test</homepage>
 		<qgis_minimum_version>2.2</qgis_minimum_version>
 		<file_name>massive-change-detection.zip</file_name>
-		<download_url>https://dymaxionlabs.github.io/qgis-repository/massive-change-detection-0.1.0.zip</download_url>
+		<download_url>https://github.com/severina19/qgis_test/blob/master/massive-change-detection-0.1.0.zip</download_url>
 		<author_name>Damián Silvani</author_name>
     <experimental>True</experimental>
     <deprecated>False</deprecated>
-    <tracker>https://github.com/dymaxionlabs/massive-change-detection/issues</tracker>
-    <repository>https://github.com/dymaxionlabs/massive-change-detection</repository>
+    <repository>https://github.com/severina19/qgis_test</repository>
     <tags>dymaxion,urban planning,change detection</tags>
 	</pyqgis_plugin>
 </plugins>
